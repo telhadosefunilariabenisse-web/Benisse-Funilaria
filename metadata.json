@@ -1,0 +1,8 @@
+{
+  "name": "Benisse Funilaria",
+  "description": "Especialistas em funilaria sob medida: fabricação e instalação de calhas, algerosas, rufos, toldos, coifas, dutos e peças metálicas na Região Metropolitana de Porto Alegre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
